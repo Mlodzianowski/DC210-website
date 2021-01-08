@@ -1,5 +1,7 @@
 # DC210 - Official DEF CON 210 Group
-The website code of the DC210 DEF CON Group. 
+The website code of the DC210 DEF CON Group.
+
+WebSite: https://dc210.io
 
 San Antonio's original DEF CON Authorized Community Group.
 
